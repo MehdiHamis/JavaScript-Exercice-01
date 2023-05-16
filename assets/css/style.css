@@ -1,0 +1,9 @@
+.gallery {
+  margin: 0 auto;
+  width: 564px;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
